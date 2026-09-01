@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Classroom Presence Platform is a MERN application (React frontend, Node.js/Express backend, MongoDB Atlas database). This project (Project 1 of my Cloud/DevOps portfolio) covers **manually deploying the application to AWS** — provisioning an EC2 server for the backend, configuring Nginx and PM2, and hosting the React frontend on S3 — without any automation or IaC tooling, to build a solid foundation in core AWS infrastructure before introducing containers and CI/CD in later projects.
+The Classroom Presence Platform is a MERN application (React frontend, Node.js/Express backend, MongoDB Atlas database). This project (Project 1 of my Cloud/DevOps portfolio) covers **manually deploying the application to AWS** — provisioning an EC2 server for the backend, configuring Nginx and PM2, and hosting the React frontend on S3 — without any automation, to build a solid foundation in core AWS infrastructure before introducing containers and CI/CD in later projects.
 
 ## Architecture
 
