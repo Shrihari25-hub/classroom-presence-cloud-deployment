@@ -149,6 +149,6 @@ The following are potential next steps, not yet implemented:
 - Deployment notifications (e.g., Slack or email on success/failure)
 ## Related Projects
  
-**[Project 1 — AWS Deployment](../classroom-presence-cloud-deployment/project-1-aws-deployment)**
+**[Project 1 — AWS Deployment]([../classroom-presence-cloud-deployment/project-1-aws-deployment](https://github.com/Shrihari25-hub/classroom-presence-cloud-deployment/tree/main/project-1-aws-deployment))**
 The original manual AWS deployment of the Classroom Presence Platform (EC2, Nginx, PM2, S3).
  
